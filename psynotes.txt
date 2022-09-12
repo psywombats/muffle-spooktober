@@ -1,4 +1,5 @@
 ch01
+====
 
 word choice
 223
@@ -34,14 +35,10 @@ since
 anyway
 
 
-
 ch02
+=====
 
 word coice
 36
 96
 1214
-
-choice
-1508
-
