@@ -7,8 +7,6 @@ word choice
 669
 1049
 
-yuvia gender
-
 tense
 13
 63
@@ -28,12 +26,6 @@ tense
 1179
 1669
 
-adverbs
-
-since
-
-anyway
-
 
 ch02
 =====
@@ -42,3 +34,20 @@ word coice
 36
 96
 1214
+
+
+ch03
+=====
+
+word coice
+387
+421
+600
+1100
+1214
+1356
+
+unclear
+145
+147
+1258
